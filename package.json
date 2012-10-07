@@ -1,0 +1,19 @@
+{
+  "name": "doorhanger",
+  "version": "0.0.2",
+  "description": "Doorhanger Notification",
+  "keywords": [ "doorhanger" ],
+  "author": "Matteo Ferretti <zer0@mozilla.com>",
+  "homepage": "https://github.com/ZER0/doorhanger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZER0/doorhanger.git",
+    "web": "https://github.com/ZER0/doorhanger"
+  },
+  "bugs": {
+    "url": "http://github.com/ZER0/doorhanger/issues/"
+  },
+  "license": "MPL 2.0",
+  "fullName": "doorhanger",
+  "dependencies": ["api-utils", "doorhanger"]
+}
